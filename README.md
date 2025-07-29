@@ -4,15 +4,6 @@ This project predicts the **Water Quality Index (WQI)** and classifies water con
 
 ---
 
-## 🚀 Demo
-
-![App Screenshot](screenshots/demo.gif) <!-- (Optional: Add a gif or image) -->
-
-Try the interactive demo:
-> 🔗 Hosted locally via Gradio UI
-
----
-
 ## 🧠 Machine Learning Workflow
 
 - 📚 **Dataset Preprocessing**  
@@ -38,6 +29,3 @@ Try the interactive demo:
   | 300+      | 🔴 High Contamination  |
 
 ---
-
-## 🧪 Sample Prediction Output
-
